@@ -1,6 +1,6 @@
 # Face-Recognition
 
-we will use HAAR as wel as LBP classifier to train our model.
+I have used HAAR as well as LBP classifier to train our model.
 After training on 12 image each of the two different candidate i got the result as follows on the test images.
 
 
