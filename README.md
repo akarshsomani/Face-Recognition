@@ -8,3 +8,5 @@ After training on 12 image each of the two different candidate i got the result 
 ![capture2](https://user-images.githubusercontent.com/34620833/50732867-ec691b80-11a8-11e9-98f9-7a9a0ead764d.JPG)
 
 It is found out that HAAR is slow but more accurate where as LBP is faster but little less accurate. There is a trade of between time and accuracy.
+
+![capture3](https://user-images.githubusercontent.com/34620833/50735054-4f20de00-11ce-11e9-8297-a8c8c9471859.JPG)
